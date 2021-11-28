@@ -37,9 +37,6 @@ for (let i = 0; i < render.length; i++) {
     btnBookmark.textContent = "Bookmarker"
 
     
-
-
-
     elList.appendChild(new_List);
     new_List.appendChild(new_img);
     new_List.appendChild(newH5);
